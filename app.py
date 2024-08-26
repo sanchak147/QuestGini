@@ -3,7 +3,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
-# Initialize your language model
+# Initialize your language models
 llm = OpenAI()
 
 # Define a function to generate questions
