@@ -1,5 +1,5 @@
 title: QuestGenieApp
-emoji: 🐢
+emoji: 🧞
 colorFrom: green
 colorTo: yellow
 sdk: streamlit
